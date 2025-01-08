@@ -1,4 +1,4 @@
-local model = 'g_m_importexport_01'
+local model = 'a_c_pig'
 local superjumpactive = false
 
 RegisterCommand("SJ", function()
